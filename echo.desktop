@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Echo Music
+Comment=Echo Music Desktop
+GenericName=Echo Musict for Linux
+Exec=/path/echok --disable-gpu %U
+Icon=/path/echo.png
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;
+MimeType=x-scheme-handler/echo;
